@@ -1,0 +1,25 @@
+public enum ClubType
+{
+	None = 0,
+	Cooking = 1,
+	Drama = 2,
+	Occult = 3,
+	Art = 4,
+	LightMusic = 5,
+	MartialArts = 6,
+	Photography = 7,
+	Science = 8,
+	Sports = 9,
+	Gardening = 10,
+	Gaming = 11,
+	Council = 12,
+	Bully = 13,
+	Delinquent = 14,
+	Newspaper = 0xF,
+	Nemesis = 99,
+	Teacher = 100,
+	GymTeacher = 101,
+	Nurse = 102,
+	Counselor = 103,
+	Headmaster = 104
+}
